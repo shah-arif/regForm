@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "613906527497",
+    "project_id": "swift-lab-308611",
+    "storage_bucket": "swift-lab-308611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613906527497:android:fb40b10543cbb92a57cfd8",
+        "android_client_info": {
+          "package_name": "com.example.jsonproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613906527497-s28tha1meadie08frscbmiibnuc5kvop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jsonproject",
+            "certificate_hash": "f13e71da6cc4646c10a4c1c0bf98311714bf9e52"
+          }
+        },
+        {
+          "client_id": "613906527497-je6hn2flgbma33h9o09kah6qge5d8hh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByR2GpleLAmudnNIkpK0eTOAaogiDhmsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613906527497-je6hn2flgbma33h9o09kah6qge5d8hh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
